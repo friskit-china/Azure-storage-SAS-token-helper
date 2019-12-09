@@ -1,7 +1,7 @@
 {
  "renew_account": false,
  "authority_host_uri": "https://login.microsoftonline.com",
- "tenant_id": "microsoft.onmicrosoft.com",
+ "tenant_id": "<tenant_azure_activaty_directory>.onmicrosoft.com",
  "storage_account_uri": "https://<storage_account_name>.blob.core.windows.net/",
  "container_name": "<container_name>",
  "signed_version": "2019-02-02",
